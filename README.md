@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
 
+<p align="center">
+  <img src="docs/assets/hearo-interface.png" alt="Hearo interface showing sound direction and detected events" width="420">
+</p>
+
 ## 📋 프로젝트 개요
 
 **Hearo**는 청각 장애인을 위한 **실시간 소리 인식 및 분석 시스템**입니다.
